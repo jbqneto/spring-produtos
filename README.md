@@ -7,6 +7,10 @@ Uma API simples em JAVA usando o básico do SPRING para efetuar um cadastro, con
   - valor
   - quantidade
 
+## Branch Atual
+
+Este branch consiste no conteúdo ensinado pelo tutorial da Michelli Brito. O que vem a se seguir a partir de MASTER serão incrementos, implementações de novas funcionalidades e melhorias no projeto.
+
 ## TODO
 
   - Criar um cadastro de categorias
